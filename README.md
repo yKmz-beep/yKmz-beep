@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**yKmz-beep/yKmz-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Gabriel
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desensolvendo na linguagem javascript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo por:
+
+  ramos.andrade@escola.pr.gov.br
+
+  ![](https://media1.tenor.com/m/PuU2vT6osYIAAAAC/meow-kitty.gif)
